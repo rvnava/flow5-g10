@@ -148,11 +148,11 @@ La siguiente imagen muestra el flujo realizado en **Node-Red**
 ![](https://github.com/rvnava/flow5-g10/blob/main/Flujo-broker-publico.png?raw=true)
 
 La siguiente imagen muestra el Dashboard
-![](https://github.com/rvnava/flow5-g10/blob/main/Dashboard-Broker-publico.png.png?raw=true)
+![](https://github.com/rvnava/flow5-g10/blob/main/Dashboard-Broker-publico.png?raw=true)
 
 ## Evidencias
 
- - [Repositorio en GitHub](https://github.com/rvnava/flow4-g10.git)
+ - [Repositorio en GitHub](https://github.com/rvnava/flow5-g10.git)
  - Video en youtube 
 	 - No disponible
  - blogs
